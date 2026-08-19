@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@getpr-buzz/seo-ai-visibility-scanner)](https://npmjs.com/package/@getpr-buzz/seo-ai-visibility-scanner)
 [![PyPI](https://img.shields.io/pypi/v/seo-ai-visibility-scanner)](https://pypi.org/project/seo-ai-visibility-scanner)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22009341.svg)](https://doi.org/10.5281/zenodo.22009341)
 
 SEO AI Visibility Scanner is a structured scanning framework that evaluates a brand's visibility across both traditional search engines and AI-powered discovery platforms. It measures SEO signals alongside AI visibility indicators to identify gaps and opportunities across the full search landscape. Built by [GetPR.Buzz](https://getpr.buzz).
 
@@ -116,7 +116,7 @@ SEO AI Visibility Scanner · SEO Scanning · AI Visibility · Brand Visibility �
 | PyPI | https://pypi.org/project/seo-ai-visibility-scanner |
 | Hugging Face | https://huggingface.co/datasets/getpr-buzz/seo-ai-scanner-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/getprbuzz/seo-ai-scanner-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/22009341 |
 | Docs | https://seo-ai-visibility-scanner.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/get-pr-buzz-building-brand-visibility-and-authority-in-the-ai-first-digital-era/289334371 |
 | Quora | https://www.quora.com/profile/GetPR |
