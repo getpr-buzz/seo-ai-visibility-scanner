@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SEO AI Visibility Scanner",
+  "description": "A structured scanning framework that evaluates a brand's visibility across both traditional search engines and AI-powered discovery platforms.",
+  "url": "https://getpr.buzz",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GetPR.Buzz",
+    "url": "https://getpr.buzz",
+    "sameAs": [
+      "https://getpr.buzz",
+      "https://github.com/getpr-buzz",
+      "https://npmjs.com/package/@getpr-buzz/seo-ai-visibility-scanner",
+      "https://pypi.org/project/seo-ai-visibility-scanner",
+      "https://huggingface.co/datasets/getpr-buzz/seo-ai-scanner-benchmarks",
+      "https://www.kaggle.com/datasets/getprbuzz/seo-ai-scanner-benchmarks",
+      "https://getpr-buzz.github.io/seo-ai-visibility-scanner/",
+      "https://www.slideshare.net/slideshow/get-pr-buzz-building-brand-visibility-and-authority-in-the-ai-first-digital-era/289334371",
+      "https://www.quora.com/profile/GetPR"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/getpr-buzz/seo-ai-visibility-scanner",
+  "keywords": [
+    "SEO AI Visibility Scanner",
+    "SEO Scanning",
+    "AI Visibility",
+    "Brand Visibility",
+    "Search Gap Analysis",
+    "AI Search",
+    "Content Signals",
+    "Authority Signals",
+    "GetPR.Buzz"
+  ]
+}

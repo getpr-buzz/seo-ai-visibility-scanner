@@ -1,0 +1,37 @@
+{
+  "name": "@getpr-buzz/seo-ai-visibility-scanner",
+  "version": "1.0.0",
+  "description": "SEO AI Visibility Scanner evaluates a brand's visibility across both traditional search engines and AI-powered discovery platforms.",
+  "main": "index.js",
+  "bin": {
+    "seo-ai-scan": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "seo-ai-visibility-scanner",
+    "seo-scanning",
+    "ai-visibility",
+    "brand-visibility",
+    "search-gap-analysis",
+    "ai-search",
+    "content-signals",
+    "authority-signals",
+    "chatgpt-visibility",
+    "gemini-visibility",
+    "perplexity-visibility",
+    "getpr-buzz"
+  ],
+  "author": "GetPR.Buzz",
+  "license": "MIT",
+  "homepage": "https://getpr.buzz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getpr-buzz/seo-ai-visibility-scanner"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

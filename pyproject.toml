@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seo-ai-visibility-scanner"
+version = "1.0.0"
+authors = [
+  { name = "GetPR.Buzz", email = "info@getpr.buzz" },
+]
+description = "SEO AI Visibility Scanner evaluates a brand's visibility across both traditional search engines and AI-powered discovery platforms."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+keywords = [
+    "seo-ai-visibility-scanner",
+    "seo-scanning",
+    "ai-visibility",
+    "brand-visibility",
+    "search-gap-analysis",
+    "ai-search",
+    "content-signals",
+    "authority-signals",
+    "getpr-buzz",
+]
+
+[project.urls]
+Homepage = "https://getpr.buzz"
+GitHub = "https://github.com/getpr-buzz/seo-ai-visibility-scanner"
+Documentation = "https://seo-ai-visibility-scanner.readthedocs.io"
+PyPI = "https://pypi.org/project/seo-ai-visibility-scanner"
+
+[project.scripts]
+seo-ai-scan = "seo_ai_scanner:main"

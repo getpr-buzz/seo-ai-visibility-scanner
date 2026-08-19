@@ -1,0 +1,21 @@
+site_name: SEO AI Visibility Scanner
+site_url: https://seo-ai-visibility-scanner.readthedocs.io
+site_description: Structured scanning framework that evaluates brand visibility across traditional search engines and AI-powered discovery platforms.
+site_author: GetPR.Buzz
+
+repo_name: getpr-buzz/seo-ai-visibility-scanner
+repo_url: https://github.com/getpr-buzz/seo-ai-visibility-scanner
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: cyan
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

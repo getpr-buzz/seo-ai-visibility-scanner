@@ -1,0 +1,66 @@
+{
+  "title": "SEO AI Visibility Scanner",
+  "description": "SEO AI Visibility Scanner is a structured scanning framework that evaluates a brand's visibility across both traditional search engines and AI-powered discovery platforms. Measures SEO signals alongside AI visibility indicators to identify gaps and opportunities across the full search landscape. Built by GetPR.Buzz.",
+  "creators": [
+    {
+      "name": "GetPR.Buzz"
+    }
+  ],
+  "keywords": [
+    "SEO AI Visibility Scanner",
+    "SEO Scanning",
+    "AI Visibility",
+    "Brand Visibility",
+    "Search Gap Analysis",
+    "AI Search",
+    "Content Signals",
+    "Authority Signals",
+    "GetPR.Buzz"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/getpr-buzz/seo-ai-visibility-scanner",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://getpr.buzz",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@getpr-buzz/seo-ai-visibility-scanner",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/seo-ai-visibility-scanner",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/getpr-buzz/seo-ai-scanner-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/getprbuzz/seo-ai-scanner-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/get-pr-buzz-building-brand-visibility-and-authority-in-the-ai-first-digital-era/289334371",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/GetPR",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
