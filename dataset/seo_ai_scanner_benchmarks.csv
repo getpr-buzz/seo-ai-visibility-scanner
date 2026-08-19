@@ -1,0 +1,21 @@
+id,brand,scan_type,seo_signal_score,ai_visibility_score,content_signal_score,authority_signal_score,gap_score,coverage_score,overall_scanner_index,priority_action,google_search_score,chatgpt_score,gemini_score,perplexity_score,copilot_score,industry,notes
+1,SaaS Startup,full-scan,88,76,82,74,86,80,81,AI Visibility,88,76,76,76,76,SaaS,Strong SEO weak AI presence
+2,E-commerce Brand,seo-scan,90,78,84,76,88,82,83,AI Visibility,90,78,78,78,78,Retail,SEO leader AI gap
+3,B2B Consultancy,ai-scan,82,88,86,84,80,84,84,SEO,82,88,88,88,88,Consulting,AI-strong SEO lagging
+4,Tech Agency,full-scan,90,82,88,80,88,84,85,Authority Signal,90,82,82,82,82,Technology,Full scan strong overall
+5,Local Business,gap-scan,84,72,78,74,90,78,79,AI Visibility,84,72,72,72,72,Local,Large SEO-AI gap identified
+6,Media Publisher,content-scan,86,82,92,80,84,84,85,Authority Signal,86,82,82,82,82,Media,Content authority strong
+7,Healthcare Brand,authority-scan,84,78,82,90,82,82,83,AI Visibility,84,78,78,78,78,Healthcare,PR-authority dominant
+8,Financial Services,full-scan,88,80,84,86,84,84,84,AI Visibility,88,80,80,80,80,Finance,PR-strong AI gap
+9,Education Platform,content-scan,86,80,90,78,84,82,83,Authority Signal,86,80,80,80,80,EdTech,Content-AI alignment
+10,Retail Brand,gap-scan,88,76,82,74,92,80,82,AI Visibility,88,76,76,76,76,Retail,Gap scan reveals AI weakness
+11,Legal Firm,full-scan,84,76,84,88,80,82,82,AI Visibility,84,76,76,76,76,Legal,Trust-first visibility
+12,Travel Brand,seo-scan,90,80,84,82,86,84,84,AI Visibility,90,80,80,80,80,Travel,SEO-strong travel brand
+13,Food & Beverage,ai-scan,80,86,82,78,82,82,82,SEO,80,86,86,86,86,Food,AI emerging in food discovery
+14,Insurance Brand,full-scan,86,76,80,78,88,80,81,AI Visibility,86,76,76,76,76,Insurance,GAP identified in AI
+15,HR Tech,content-scan,88,82,90,80,84,84,85,Authority Signal,88,82,82,82,82,HRTech,Content-strong HR platform
+16,Real Estate,authority-scan,84,78,82,90,80,82,83,AI Visibility,84,78,78,78,78,Real Estate,Digital PR authority play
+17,Beauty Brand,full-scan,86,80,86,78,84,82,83,Authority Signal,86,80,80,80,80,Beauty,Full scan balanced profile
+18,Cybersecurity,content-scan,90,82,92,80,86,84,86,Authority Signal,90,82,82,82,82,Security,Content-authority leader
+19,Logistics Brand,gap-scan,86,74,80,72,92,78,80,AI Visibility,86,74,74,74,74,Logistics,Gap scan — AI very weak
+20,Nonprofit,full-scan,80,78,86,82,82,82,82,SEO,80,78,78,78,78,Nonprofit,PR-led mission visibility
